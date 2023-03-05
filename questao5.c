@@ -7,23 +7,22 @@ a sua raiz quadrada, se impar apresentar sua metade. */
 
 int main(){
 
-    float idade;
-    float pesso;
+    int numero;
+    float resultado;
     
-    printf("qual a sua idade?\n");
-    scanf("%f", &idade);
+    printf("digite um numero!!!\n");
+    scanf("%i", &numero);
 
-    printf("qual o seu pesso?\n");
-    scanf("%f", &pesso);
+   if(numero % 2 == 0 ){
 
+    resultado = sqrt(numero);
+   }else{
 
-    if (idade < 18 || idade > 67 || pesso < 50){
-
-        printf("voce nao pode doar sangue!!!\n");
-
-    }else{
-        printf("voce pode doar sanque!!!\n");
-    }
+        resultado = numero / 2;
+   }
     
+    printf("o resultado e: %.1f\n", resultado);
  
-}
+} 
+
+/* enviar email para professora sobre por que não esta retornando a metade correta*/
