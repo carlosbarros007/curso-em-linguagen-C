@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/carlo/Documents/curso-em-linguagen-C",
-      "program": "c:/Users/carlo/Documents/curso-em-linguagen-C/build/Debug/outDebug",
+      "cwd": "c:/Users/carlo/Documents/curso-em-linguagen-C/desfio pedra papel tesoua",
+      "program": "c:/Users/carlo/Documents/curso-em-linguagen-C/desfio pedra papel tesoua/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

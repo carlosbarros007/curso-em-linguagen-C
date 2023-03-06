@@ -57,4 +57,4 @@ int main(){
  
 }
 
-/*codigo possui incompleto, buscar uma forma melhor de colocar os numeros em ordem cresente!!!*/
+/*codigo incompleto, buscar uma forma melhor de colocar os numeros em ordem cresente!!!*/
