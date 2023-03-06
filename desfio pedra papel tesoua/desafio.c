@@ -1,3 +1,11 @@
+/* 
+
+    JOKENPO versão: 05032023.1
+    Desenvolvido: Carlos Barros
+    GitHub: https://github.com/carlosbarros007
+
+*/
+
 # include <stdio.h>
 # include <stdlib.h>
 # include <time.h>
@@ -94,3 +102,7 @@ int main(void){
 
     return 0;
 }
+
+/*Código inicial, tem bastante espaço para melhorias e adição de novas funcionalidades, criei o jogo com baseno 
+no meu conhecimento e com algumas pesquisas na internete que me ajudaram a entender como funciona a geração de 
+numeros aleatoris dentro da linguagem C.*/
