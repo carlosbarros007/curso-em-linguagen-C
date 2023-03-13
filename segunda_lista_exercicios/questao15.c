@@ -18,7 +18,7 @@ classificado como "Inocente".*/
 // diz se o sujeito e culpado ou inocente
 float culpadoOuInocente(float resposta1, float resposta2, float resposta3, float resposta4, float resposta5){
 
-   float suspeito = resposta1 + resposta2 + resposta3 + resposta4 + resposta5 - 1; // o menos um esta aqui para corrigir um bug, ou seja ele e um ajuste tecnico.
+   float suspeito = resposta1 + resposta2 + resposta3 + resposta4 + resposta5; // o menos um esta aqui para corrigir um bug, ou seja ele e um ajuste tecnico.
 
    if(suspeito == 5){
 
